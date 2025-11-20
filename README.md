@@ -304,7 +304,7 @@ For detailed ML API documentation, see [backend/ml-api/README.md](backend/ml-api
 - **Critical**: Risk score ≥ 70% (High probability of failing)
 
 ### Model Performance
-- Typical accuracy: **85-95%+**
+- Typical accuracy: **90-95%+**
 - Precision and recall balanced for both Pass/Fail classes
 - Feature importance analysis available
 
@@ -388,32 +388,10 @@ npm test  # If tests are configured
 2. Run `python train_model.py`
 3. Restart ML API server
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
 
-- Scikit-learn for the Random Forest implementation
-- FastAPI for the excellent Python web framework
-- React team for the amazing UI library
-- MongoDB for the database solution
 
-## 📧 Support
-
-For issues, questions, or contributions, please open an issue on GitHub.
-
----
-
-**Made with ❤️ for better education outcomes**
 
