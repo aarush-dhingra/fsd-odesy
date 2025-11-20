@@ -388,9 +388,9 @@ npm test  # If tests are configured
 2. Run `python train_model.py`
 3. Restart ML API server
 
-## 📄 License
+### Demo Video
+https://drive.google.com/file/d/140cnhEsJtSB7LTnJYO27TjzAxhov53im/view?usp=sharing
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
